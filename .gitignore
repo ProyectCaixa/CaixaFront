@@ -4,9 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
-
+Bankycredencial
 # testing
 /coverage
+node_modules
+.env
 
 # production
 /build

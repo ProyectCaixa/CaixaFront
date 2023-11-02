@@ -1,0 +1,16 @@
+.Tex_1{
+width: 417.16px;
+left: 0;
+top: 0;
+text-transform: capitalize;
+
+
+
+}
+.Inform_general{
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+}

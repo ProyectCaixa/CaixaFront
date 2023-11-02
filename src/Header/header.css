@@ -1,0 +1,40 @@
+.Header_containe{
+ align-items: center;
+ 
+}
+
+.H_S{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+} 
+.caixa1{
+    display: flex;
+    justify-content :space-between 0 0 1;
+    align-items: center;
+}
+.Menu_H{
+    display: flex;
+
+    align-items: center;
+    
+
+} 
+
+.Search_H{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+} 
+.Logo_Caixa{
+    margin: 60px;
+}
+.H_I{
+    display: flex;
+    align-items: center;
+    justify-content: space-between ;
+
+}
